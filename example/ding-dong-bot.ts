@@ -30,7 +30,7 @@ const welcome = `
 
 I'm a bot, my super power is talk in Wechat.
 
-If you send me a 'ding', I will reply you a 'dong'!
+If you send me a 'ding ding', I will reply you a 'dong'!
 __________________________________________________
 
 Hope you like it, and you are very welcome to
